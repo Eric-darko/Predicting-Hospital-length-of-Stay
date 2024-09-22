@@ -34,10 +34,10 @@ Creation of relevant features that enhance the predictive power of the models, s
 Modeling:
 
 Built classification models to predict LOS using both 3-class and 4-class intervals. The models implemented include:
-Logistic Regression
-Random Forest
-Support Vector Machine(SVM)
-Gradient Booster
+Logistic Regression,
+Random Forest,
+Support Vector Machine(SVM),
+Gradient Booster,
 
 Evaluation:
 
